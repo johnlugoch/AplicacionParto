@@ -1,0 +1,7 @@
+C:\John\Proyectos VS\Parto\AplicacionParto\CADAplicacionParto\bin\Debug\CADAplicacionParto.dll.config
+C:\John\Proyectos VS\Parto\AplicacionParto\CADAplicacionParto\bin\Debug\CADAplicacionParto.dll
+C:\John\Proyectos VS\Parto\AplicacionParto\CADAplicacionParto\bin\Debug\CADAplicacionParto.pdb
+C:\John\Proyectos VS\Parto\AplicacionParto\CADAplicacionParto\obj\Debug\CADAplicacionParto.csprojAssemblyReference.cache
+C:\John\Proyectos VS\Parto\AplicacionParto\CADAplicacionParto\obj\Debug\CADAplicacionParto.csproj.CoreCompileInputs.cache
+C:\John\Proyectos VS\Parto\AplicacionParto\CADAplicacionParto\obj\Debug\CADAplicacionParto.dll
+C:\John\Proyectos VS\Parto\AplicacionParto\CADAplicacionParto\obj\Debug\CADAplicacionParto.pdb
